@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Playfair+Display&display=swap');
+h1{
+    color: red;
+    font-family: 'Anton', sans-serif;
+
+
+}
+
+.portada{
+    display: flex;
+    min-height: 90vh;
+    width: 100%;
+}
+
+
